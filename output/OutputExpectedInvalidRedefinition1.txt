@@ -1,0 +1,5 @@
+Invalid entry: Field for attribute 'naam' can not be empty
+Invalid entry: Field for attribute 'adres' can not be empty
+Redefinition of Vaccination Centre attribute: inwoners
+XML PARTIAL IMPORT: Inhabitants for Vaccination Centre should be a positive integer
+XML PARTIAL IMPORT: No Vaccination Centre elements found

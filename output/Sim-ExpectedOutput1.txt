@@ -1,0 +1,5 @@
+Vaccinatie Simulatie
+Cédric Leclercq & Maarten Peirsman
+Project Software Engineering Ba1 INF
+
+Deze simulatie is ingesteld voor 1 dag en begint binnen 5 seconden.

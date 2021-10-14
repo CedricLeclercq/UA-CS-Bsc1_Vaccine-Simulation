@@ -1,0 +1,170 @@
+Vaccinatie Simulatie
+Cédric Leclercq & Maarten Peirsman
+Project Software Engineering Ba1 INF
+
+Deze simulatie is ingesteld voor 10 dagen en begint binnen 5 seconden.
+
+Start van de simulatie - dag 1:
+
+
+Dag 2:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [                    ] 	3%
+AED Studios
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=                   ] 	5%
+De Zoerla
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [                    ] 	4%
+Flanders Expo
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [                    ] 	2%
+
+Dag 3:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [                    ] 	4%
+AED Studios
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=                   ] 	8%
+De Zoerla
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=                   ] 	6%
+Flanders Expo
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [                    ] 	4%
+
+Dag 4:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=                   ] 	6%
+AED Studios
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [==                  ] 	10%
+De Zoerla
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=                   ] 	8%
+Flanders Expo
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=                   ] 	5%
+
+Dag 5:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=                   ] 	7%
+AED Studios
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [==                  ] 	13%
+De Zoerla
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [==                  ] 	10%
+Flanders Expo
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=                   ] 	6%
+
+Dag 6:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=                   ] 	8%
+AED Studios
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [===                 ] 	16%
+De Zoerla
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [==                  ] 	12%
+Flanders Expo
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=                   ] 	7%
+
+Dag 7:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [==                  ] 	10%
+AED Studios
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [===                 ] 	18%
+De Zoerla
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [==                  ] 	14%
+Flanders Expo
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=                   ] 	8%
+
+Dag 8:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [==                  ] 	11%
+AED Studios
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [====                ] 	21%
+De Zoerla
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [===                 ] 	16%
+Flanders Expo
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=                   ] 	9%
+
+Dag 9:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [==                  ] 	12%
+AED Studios
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [====                ] 	23%
+De Zoerla
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [===                 ] 	18%
+Flanders Expo
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [==                  ] 	11%
+
+Dag 10:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [==                  ] 	14%
+AED Studios
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=====               ] 	26%
+De Zoerla
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [====                ] 	20%
+Flanders Expo
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [==                  ] 	12%

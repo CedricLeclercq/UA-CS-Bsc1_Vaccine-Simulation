@@ -1,0 +1,1206 @@
+Vaccinatie Simulatie
+Cédric Leclercq & Maarten Peirsman
+Project Software Engineering Ba1 INF
+
+Deze simulatie is ingesteld voor 200 dagen en begint binnen 5 seconden.
+
+Start van de simulatie - dag 1:
+
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [                    ] 	1%
+
+Dag 2:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [                    ] 	3%
+
+Dag 3:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [                    ] 	4%
+
+Dag 4:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=                   ] 	6%
+
+Dag 5:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=                   ] 	7%
+
+Dag 6:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=                   ] 	8%
+
+Dag 7:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [==                  ] 	10%
+
+Dag 8:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [==                  ] 	11%
+
+Dag 9:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [==                  ] 	12%
+
+Dag 10:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [==                  ] 	14%
+
+Dag 11:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [===                 ] 	15%
+
+Dag 12:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [===                 ] 	17%
+
+Dag 13:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [===                 ] 	18%
+
+Dag 14:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [===                 ] 	19%
+
+Dag 15:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [====                ] 	21%
+
+Dag 16:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [====                ] 	22%
+
+Dag 17:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [====                ] 	24%
+
+Dag 18:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=====               ] 	25%
+
+Dag 19:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=====               ] 	26%
+
+Dag 20:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=====               ] 	28%
+
+Dag 21:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [=====               ] 	29%
+
+Dag 22:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	0%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 23:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	1%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 24:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	3%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 25:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [                    ] 	4%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 26:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=                   ] 	6%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 27:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=                   ] 	7%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 28:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=                   ] 	8%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 29:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [==                  ] 	10%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 30:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [==                  ] 	11%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 31:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [==                  ] 	12%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 32:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [==                  ] 	14%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 33:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [===                 ] 	15%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 34:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [===                 ] 	17%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 35:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [===                 ] 	18%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 36:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [===                 ] 	19%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 37:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====                ] 	21%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 38:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====                ] 	22%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 39:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====                ] 	24%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 40:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=====               ] 	25%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 41:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=====               ] 	26%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 42:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=====               ] 	28%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 43:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=====               ] 	29%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 44:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [======              ] 	31%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 45:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [======              ] 	32%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 46:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [======              ] 	33%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 47:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=======             ] 	35%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 48:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=======             ] 	36%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 49:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=======             ] 	37%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 50:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=======             ] 	39%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 51:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [========            ] 	40%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 52:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [========            ] 	42%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 53:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [========            ] 	43%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 54:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [========            ] 	44%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 55:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=========           ] 	46%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 56:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=========           ] 	47%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 57:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=========           ] 	49%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 58:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [==========          ] 	50%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 59:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [==========          ] 	51%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 60:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [==========          ] 	53%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 61:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [==========          ] 	54%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 62:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [===========         ] 	56%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 63:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [===========         ] 	57%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 64:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [===========         ] 	58%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 65:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [============        ] 	60%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 66:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [============        ] 	61%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 67:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [============        ] 	62%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 68:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [============        ] 	64%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 69:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=============       ] 	65%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 70:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=============       ] 	67%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 71:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=============       ] 	68%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 72:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=============       ] 	69%
+	 - gedeeltelijk gevaccineerd [======              ] 	31%
+
+Dag 73:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [==============      ] 	71%
+	 - gedeeltelijk gevaccineerd [=====               ] 	29%
+
+Dag 74:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [==============      ] 	72%
+	 - gedeeltelijk gevaccineerd [=====               ] 	28%
+
+Dag 75:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [==============      ] 	74%
+	 - gedeeltelijk gevaccineerd [=====               ] 	26%
+
+Dag 76:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [===============     ] 	75%
+	 - gedeeltelijk gevaccineerd [=====               ] 	25%
+
+Dag 77:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [===============     ] 	76%
+	 - gedeeltelijk gevaccineerd [====                ] 	24%
+
+Dag 78:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [===============     ] 	78%
+	 - gedeeltelijk gevaccineerd [====                ] 	22%
+
+Dag 79:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [===============     ] 	79%
+	 - gedeeltelijk gevaccineerd [====                ] 	21%
+
+Dag 80:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [================    ] 	81%
+	 - gedeeltelijk gevaccineerd [===                 ] 	19%
+
+Dag 81:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [================    ] 	82%
+	 - gedeeltelijk gevaccineerd [===                 ] 	18%
+
+Dag 82:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [================    ] 	83%
+	 - gedeeltelijk gevaccineerd [===                 ] 	17%
+
+Dag 83:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=================   ] 	85%
+	 - gedeeltelijk gevaccineerd [===                 ] 	15%
+
+Dag 84:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=================   ] 	86%
+	 - gedeeltelijk gevaccineerd [==                  ] 	14%
+
+Dag 85:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=================   ] 	87%
+	 - gedeeltelijk gevaccineerd [==                  ] 	13%
+
+Dag 86:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=================   ] 	89%
+	 - gedeeltelijk gevaccineerd [==                  ] 	11%
+
+Dag 87:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [==================  ] 	90%
+	 - gedeeltelijk gevaccineerd [==                  ] 	10%
+
+Dag 88:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [==================  ] 	92%
+	 - gedeeltelijk gevaccineerd [=                   ] 	8%
+
+Dag 89:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [==================  ] 	93%
+	 - gedeeltelijk gevaccineerd [=                   ] 	7%
+
+Dag 90:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [==================  ] 	94%
+	 - gedeeltelijk gevaccineerd [=                   ] 	6%
+
+Dag 91:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=================== ] 	96%
+	 - gedeeltelijk gevaccineerd [                    ] 	4%
+
+Dag 92:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=================== ] 	97%
+	 - gedeeltelijk gevaccineerd [                    ] 	3%
+
+Dag 93:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [=================== ] 	99%
+	 - gedeeltelijk gevaccineerd [                    ] 	1%
+
+Dag 94:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 95:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 96:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 97:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 98:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 99:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 100:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 101:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 102:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 103:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 104:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 105:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 106:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 107:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 108:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 109:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 110:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 111:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 112:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 113:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 114:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 115:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 116:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 117:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 118:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 119:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 120:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 121:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 122:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 123:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 124:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 125:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 126:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 127:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 128:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 129:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 130:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 131:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 132:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 133:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 134:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 135:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 136:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 137:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 138:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 139:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 140:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 141:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 142:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 143:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 144:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 145:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 146:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 147:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 148:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 149:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 150:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 151:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 152:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 153:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 154:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 155:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 156:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 157:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 158:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 159:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 160:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 161:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 162:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 163:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 164:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 165:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 166:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 167:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 168:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 169:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 170:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 171:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 172:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 173:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 174:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 175:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 176:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 177:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 178:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 179:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 180:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 181:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 182:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 183:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 184:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 185:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 186:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 187:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 188:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 189:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 190:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 191:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 192:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 193:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 194:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 195:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 196:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 197:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 198:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 199:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%
+
+Dag 200:
+Park Spoor Oost
+	 - vaccins                   [                    ] 	0%
+	 - gevaccineerd              [====================] 	100%
+	 - gedeeltelijk gevaccineerd [                    ] 	0%

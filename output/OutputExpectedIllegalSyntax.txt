@@ -1,0 +1,5 @@
+XML PARTIAL IMPORT: Name for Vaccination Centre can not be empty
+XML PARTIAL IMPORT: Name for Vaccination Centre can not be empty
+XML PARTIAL IMPORT: Name for Vaccination Centre can not be empty
+XML PARTIAL IMPORT: Name for Vaccination Centre can not be empty
+XML PARTIAL IMPORT: No Vaccination Centre elements found

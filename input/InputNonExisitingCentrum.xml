@@ -1,0 +1,25 @@
+<HUB>
+    <VACCIN>
+        <type>Pfizer</type>
+        <type>Moderna</type>
+        <levering>93000</levering>
+        <levering>-8</levering>
+        <interval>6</interval>
+        <interval>-12</interval>
+        <transport>2000</transport>
+        <transport>-18</transport>
+        <hernieuwing>21</hernieuwing>
+        <hernieuwing>-5</hernieuwing>
+        <temperatuur>-70</temperatuur>
+    </VACCIN>
+    <CENTRA>
+        <centrum>Park Spoor West</centrum>
+        <centrum>De Zoerla</centrum>
+    </CENTRA>
+</HUB>
+<VACCINATIECENTRUM>
+    <naam>Park Spoor Oost</naam>
+    <adres>Noordersingel 40, Antwerpen</adres>
+    <inwoners>540173</inwoners>
+    <capaciteit>7500</capaciteit>
+</VACCINATIECENTRUM>
